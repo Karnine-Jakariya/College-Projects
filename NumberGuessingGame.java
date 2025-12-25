@@ -102,7 +102,7 @@ public class NumberGuesser {
         System.out.println("Easy Mode:   7 attempts | +1 / -1");
         System.out.println("Medium Mode: 5 attempts | +2 / -2");
         System.out.println("Hard Mode:   3 attempts | +3 / -3");
-        System.out.println("Guess range: 0–100");
+        System.out.println("Guess range: 0 to 100");
         System.out.println("Highest score is tracked");
         System.out.println("-----------------------------------");
     }
